@@ -1,0 +1,10 @@
+{
+  "name": "colorize-q",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["nodejs", "console", "color"],
+  "author": "Qawerz <alex.qawerz@yandex.ru> (htps://qawerz.github.io/)",
+  "license": "MIT"
+}
